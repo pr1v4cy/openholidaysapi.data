@@ -24,6 +24,7 @@ This repo aggregates and stores freely accessible calendar data on the following
 + San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
++ Spain (draft)
 + Switzerland (public holidays and school holidays from 2020)
 + Vatican City (public holidays from 2020)
 
@@ -340,6 +341,16 @@ School holidays:
 
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
+
+### Spain
+
+Public holidays:
+
++ Dirección General de Gobernanza Pública: [Calendarios laborales](https://administracion.gob.es/pag_Home/atencionCiudadana/calendarios/laboral.html)
+
+School holidays: 
+
++ ...
 
 ### Switzerland
 
